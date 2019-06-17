@@ -1,0 +1,74 @@
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.deps.json
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.runtimeconfig.json
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.dll
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.pdb
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.Views.dll
+C:\Users\Pichau\Desktop\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.Views.pdb
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorAssemblyInfo.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorAssemblyInfo.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.TagHelpers.input.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.TagHelpers.output.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorCoreGenerate.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Como_Funciona\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Duvidas\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\Administrador.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\LogarUsuario.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Quem_Somos\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Servico\Index.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Falha.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorTargetAssemblyInfo.cs
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.Views.pdb
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.dll
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.pdb
+C:\Users\Pichau\Desktop\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csproj.CopyComplete
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.deps.json
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.runtimeconfig.json
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.runtimeconfig.dev.json
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.dll
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.pdb
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.Views.dll
+D:\pen drive\PontoDigitalFinal\bin\Debug\netcoreapp2.2\PontoDigitalFinal.Views.pdb
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csprojAssemblyReference.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csproj.CoreCompileInputs.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorAssemblyInfo.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorAssemblyInfo.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.AssemblyInfoInputs.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.AssemblyInfo.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.TagHelpers.input.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.TagHelpers.output.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorCoreGenerate.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Como_Funciona\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Duvidas\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\Administrador.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Login\LogarUsuario.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Quem_Somos\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Servico\Index.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Falha.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderNavBar.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorTargetAssemblyInfo.cache
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.RazorTargetAssemblyInfo.cs
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.Views.pdb
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.dll
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.pdb
+D:\pen drive\PontoDigitalFinal\obj\Debug\netcoreapp2.2\PontoDigitalFinal.csproj.CopyComplete

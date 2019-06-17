@@ -1,0 +1,22 @@
+<header>
+
+@{
+        Html.RenderPartial("_HeaderNavBar");
+}
+</header>
+<div class="Formulario">
+    <h2>Login</h2>
+        <form  method="POST"action='@Url.Action("LogarUsuario","Login")'>
+            <br>
+            <label for="Email">Digite seu Email</label>
+            <input type="email" name="email">
+            <br>
+            <label for="senha">Digite sua Senha</label>
+            <input type="password" name="senha" >
+            <br>
+            <br>
+            <input type="submit" value="Logar">
+        </form>
+
+</div>
+</main>

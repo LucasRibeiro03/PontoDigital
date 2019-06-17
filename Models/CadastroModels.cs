@@ -1,0 +1,13 @@
+using System;
+namespace PontoDigitalFinal.Models
+{
+    public class CadastroModel
+    {
+        public int Id{get;set;}
+        public string Nome{get;set;}
+        public string Senha{get;set;}
+        public string Email{get;set;}
+        public DateTime Data{get;set;}
+        public int AdmOuComum{get;set;}
+    }
+}

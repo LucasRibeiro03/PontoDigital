@@ -1,0 +1,119 @@
+@model PontoDigitalFinal.ViewModels.HomeViewModel;
+<header>
+
+@{
+        Html.RenderPartial("_HeaderNavBar");
+}
+</header>
+
+   <div class="Banner">
+        <img class=logo src="img/logo.png" alt="Logotipo do ponto digital">
+        <h1>Ponto digital</h1>
+    </div>
+
+    <main>
+
+
+
+
+        <section class="section1">
+            <article class="umpoucosobreosoftware">
+
+                <div>
+                    <h3>Um pouco sobre o software</h3>
+                </div>
+                <div>
+                    <p>
+                        Esse software tem como principal objetivo administrar, monitorar e facilitar
+                        <br>
+                        o processo de Home Office de uma empresa , deixando-o mais Objetivo e funcional 
+                        <br>
+                        criando diversas classes e sistemas de praso, para que o funcionario não se 
+                        <br>
+                        atrapalhe com seu conograma afetando o seu rendimento e o processo da empresa. 
+                        <br>
+                        
+                    </p>
+                </div>
+                    <button><a asp-controller="Servico" asp-action="Index" class="active" href='@Url.Action("Index","Servico")' >Ver Mais</a></button>
+        </section>
+        <br>
+
+        <section class="Outros_Softwares_Completo">
+            <article class="OutrosSoftwares" id="Softwares1">
+                <img src="img/Hamburguer.png" alt="" class="OutrosImg">
+                <h4>Hamburgueria</h4>
+                <p>
+                    Esse Software tem como 
+                    <br>
+                    principal função criar
+                    <br>
+                    Hamburgueres e distribruir
+                    <br>
+                    para todo o Brasil.
+                </p>
+            </article>
+            
+            
+            
+            <article class="OutrosSoftwares" id="Softwares2">
+                
+                <img src="img/Livro.png" alt="" class="OutrosImg">
+                <h4>Cara Livro</h4>
+                <p>
+                    Esse Software tem como 
+                    <br>
+                    principal função criar
+                    <br>
+                    Hamburgueres e distribruir
+                    <br>
+                    para todo o Brasil.
+                </p>
+            </article>
+            
+            
+            <article class="OutrosSoftwares" id="Softwares3">
+                <img src="img/Lapis.png" alt="" class="OutrosImg">
+                <h4>Desenhando desenhos</h4>
+                <p>
+                    Site para amantes de
+                    <br>
+                    desenhos que anceiam aprender
+                    <br>
+                    novas tecnicas para aprimorar
+                    <br>
+                    o seu conhecimento em sua arte
+                </p>
+            </article>
+            
+        </section>
+
+        <div class="Comentarios">
+            <h3>Comentarios</h3>
+            @foreach (var item in Model.Duvidas)
+                {
+                    @if (item == null ||  item.ConfirmacaoAdm != 1 )
+                    {
+                        continue;
+                    }
+                    <div class="Comentario">
+                        <div class="Comentario_Nome">
+                            @item.Nome
+                        </div>
+                        <div class="Comentario_Titulo">
+                            @item.Titulo
+                        </div>
+                        <div class="Comentario_Texto" >
+                            @item.Texto
+                        </div>
+                        <div class="Comentario_Data">
+                            @item.Data
+                        </div>
+                        
+                    </div>
+                }
+
+        </div>
+            
+        
+    </main>

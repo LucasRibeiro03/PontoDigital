@@ -1,0 +1,127 @@
+@model PontoDigitalFinal.ViewModels.HomeViewModel;
+@{
+    Layout = "_Layout";
+}
+
+
+<nav>
+        <div class="menu1">                                      
+
+                <ul>
+                    <li><a asp-controller="Administrador" asp-action="Index" class="active" href='@Url.Action("Index","Administrador")'>Administrador</a></li>
+                </ul>
+                <ul>
+                    <li><a asp-controller="Home" asp-action="Index" class="active"  href='@Url.Action("Index","Home")'>Sair</a></li>
+                </ul>
+                
+            
+            </div>
+    </nav>
+
+
+    <h3>Lista de Comentarios</h3>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Nome</th>
+                <th scope="col">Titulo</th>
+                <th scope="col">Texto</th>
+                <th scope="col">Data</th>
+                <th scope="col">Confirmação</th>
+                <th>Aceitar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+    </table>
+    <tbody class="tbody-dark">
+            
+                @foreach (var item in Model.Duvidas)
+                {
+                    @if (item == null ||  item.ConfirmacaoAdm != 0 )
+                    {
+                        continue;
+                    }
+                    <tr >
+                        <div class="lista_baixo">
+                            <div>
+                                <td>@item.Nome</td>
+                            </div>
+                            <div>
+                                <td>@item.Titulo</td>
+                            </div>
+                            <div>
+                                <td>@item.Texto</td>
+                            </div>
+                            <div>
+                                <td>@item.Data</td>
+                            </div>
+                            <div>
+                                <td>@item.ConfirmacaoAdm</td>
+                            </div>
+                        <td><a href="/Administrador/Aceitar?id=@item.Id">Aceitar</a></td>
+                        <td><a href="/Administrador/Recusar?id=@item.Id">Recusar</a></td>
+                        </div>
+
+                   </tr> 
+                }
+                <form action='@Url.Action("CadastrarAdm","Administrador")' method="POST">
+                    <h3>Cadastro de Administrador</h3>
+        <label for="nome" >Digite seu Nome Completo</label>
+        <input type="text" name="nome" class="CadastroFormulario">
+        
+        
+        <label for="email">E-mail</label>
+        <input type="email" name="email" class="CadastroFormulario">
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" class="CadastroFormulario">
+
+        <label for="data">Data de Nascimento</label>
+        <input type="date" name="data">
+
+        <input type="submit" value="Cadastrar" class="CadastroFormulario">
+    </form>
+            <h3>Lista de Usuarios</h3>
+<table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Senha</th>
+                <th scope="col">Email</th>
+                <th scope="col">Data Criação</th>
+            </tr>
+        </thead>
+    </table>
+    <tbody class="tbody-dark">
+            
+                @foreach (var item in Model.Cadastros)
+                {
+                    @if (item == null ||  item.AdmOuComum != 1 )
+                    {
+                        continue;
+                    }
+                    <tr >
+                        <div class="lista_baixo">
+                            <div>
+                                <td>@item.Id</td>
+                            </div>
+                            <div>
+                                <td>@item.Nome</td>
+                            </div>
+                            <div>
+                                <td>@item.Senha</td>
+                            </div>
+                            <div>
+                                <td>@item.Email</td>
+                            </div>
+                            <div>
+                                <td>@item.Data</td>
+                            </div>
+                        </div>
+
+                   </tr> 
+                }
+                <form action='@Url.Action("CadastrarAdm","Administrador")' method="POST">
+    </tbody>
+
